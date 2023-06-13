@@ -1,0 +1,14 @@
+﻿  Assignment1.cpp
+N:\CSCD470\Assignment1\Assignment1\Sphere.h(14,1): warning C4005: 'NumVertices': macro redefinition
+N:\CSCD470\Assignment1\Assignment1\Cone.h(13): message : see previous definition of 'NumVertices'
+N:\CSCD470\Assignment1\Assignment1\Disk.h(13,1): warning C4005: 'NumVertices': macro redefinition
+N:\CSCD470\Assignment1\Assignment1\Sphere.h(14): message : see previous definition of 'NumVertices'
+N:\CSCD470\Assignment1\Assignment1\Cylinder.h(21,1): warning C4005: 'STEP': macro redefinition
+N:\CSCD470\Assignment1\Assignment1\Sphere.h(12): message : see previous definition of 'STEP'
+N:\CSCD470\Assignment1\Assignment1\Cylinder.h(22,1): warning C4005: 'NumVertices': macro redefinition
+N:\CSCD470\Assignment1\Assignment1\Disk.h(13): message : see previous definition of 'NumVertices'
+N:\CSCD470\Assignment1\Assignment1\Cylinder.h(23,1): warning C4005: 'NumTriangles': macro redefinition
+N:\CSCD470\Assignment1\Assignment1\Cone.h(12): message : see previous definition of 'NumTriangles'
+N:\CSCD470\Assignment1\Assignment1\Cylinder.h(24,1): warning C4005: 'NumIndices': macro redefinition
+N:\CSCD470\Assignment1\Assignment1\Sphere.h(15): message : see previous definition of 'NumIndices'
+  Assignment1.vcxproj -> N:\CSCD470\Assignment1\Debug\Assignment1.exe
